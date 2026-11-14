@@ -1,0 +1,15 @@
+{
+  "_como_funciona": "Só sai o item com aprovado=true (depois do 'pode postar' do Alexandre) e com 'quando' já vencido. Tipos: STORY, FEED, CARROSSEL, REELS. Imagens em JPG dentro de ig/. O robô roda de hora em hora e grava 'publicado' ou 'erro' aqui.",
+  "itens": [
+    {
+      "id": "s01-manifesto",
+      "tipo": "REELS",
+      "quando": "2026-11-14T19:00:00-03:00",
+      "midia": ["ig/semana-01/manifesto-9x16.mp4"],
+      "capa": "ig/semana-01/manifesto-capa.jpg",
+      "legenda": "Sua empresa vive de remendo? 🎬\n\n47 segundos sobre o que a phoenixbrasil LAB faz: processo arrumado, app sob medida e IA respondendo o que o dono precisa saber.\n\n👉 Link na bio.\n\n#processos #appsobmedida #inteligenciaartificial #gestao #empreendedorismo",
+      "aprovado": false,
+      "publicado": null
+    }
+  ]
+}
