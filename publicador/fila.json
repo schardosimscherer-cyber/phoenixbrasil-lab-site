@@ -5,11 +5,17 @@
       "id": "s01-manifesto",
       "tipo": "REELS",
       "quando": "2026-11-14T14:45:00-03:00",
-      "midia": ["ig/semana-01/manifesto-9x16.mp4"],
+      "midia": [
+        "ig/semana-01/manifesto-9x16.mp4"
+      ],
       "capa": "ig/semana-01/manifesto-capa.jpg",
       "legenda": "Sua empresa vive de remendo? 🎬\n\n47 segundos sobre o que a phoenixbrasil LAB faz: processo arrumado, app sob medida e IA respondendo o que o dono precisa saber.\n\n👉 Link na bio.\n\n#processos #appsobmedida #inteligenciaartificial #gestao #empreendedorismo",
       "aprovado": true,
-      "publicado": null
+      "publicado": {
+        "em": "2026-11-14T17:47:09.653Z",
+        "media_id": "18146302504592079",
+        "permalink": "https://www.instagram.com/reel/Dfuxk2GIeqw/"
+      }
     }
   ]
 }
