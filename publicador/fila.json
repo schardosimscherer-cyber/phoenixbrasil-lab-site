@@ -112,11 +112,10 @@
       "capa": "ig/semana-01b/reels-case-app-vidro-capa.jpg",
       "legenda": "Como um pedido de crédito chega ao fim sem ninguém correr atrás? 📲\n\nNo app da V2R, cada etapa tem dono, cada pessoa vê só o que é dela e o aviso chega sozinho, no app e por e-mail.\n\nSeis passos, um só lugar. (Dados fictícios no vídeo.)\n\n👉 Link na bio.\n\n#appsobmedida #processos #automacao #gestao #portfolio",
       "aprovado": true,
-      "publicado": null,
-      "erro": {
-        "em": "2026-11-18T22:03:16.575Z",
-        "msg": "fetch failed",
-        "tentativas": 1
+      "publicado": {
+        "em": "2026-11-19T03:17:37.376Z",
+        "media_id": "18150156862572944",
+        "permalink": "https://www.instagram.com/reel/Df6GDwEDeGx/"
       }
     },
     {
